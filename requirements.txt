@@ -1,0 +1,5 @@
+kaggle-environments
+matplotlib
+numpy
+jupyter
+ipykernel
